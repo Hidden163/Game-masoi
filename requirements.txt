@@ -1,2 +1,2 @@
 aiohttp
-git+https://github.com/Picowchew/discord.py.git
+git+https://github.com/Hidden163/Game-masoi.git
