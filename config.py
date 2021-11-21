@@ -1,13 +1,13 @@
-OWNER_ID = owner id (owner has all perms)
-BOT_PREFIX = ~
-TOKEN = ODQwNTAyODI3NjgzMjgyOTQ0.YJZJQQ.2UnKyVVEVzjxBODWcqNrDgv61L4
+OWNER_ID = owner id (owner has all perms) //id người điều hành
+BOT_PREFIX = ~ //dấu lệnh bot
+TOKEN = token //token bot
 GAME_CHANNEL = Sảnh
 DEBUG_CHANNEL = 'debug channel id (for all your errors and debug stuff)'
 WEREWOLF_SERVER = 'id of server the bot is running on'
 PLAYERS_ROLE_NAME = 'Players'
 ADMINS_ROLE_NAME = 'Admins'
 WEREWOLF_NOTIFY_ROLE_NAME = Sói Trùm
-ADMINS = ['admin id', 'admin 2 id', 'etc.']
+ADMINS = ['admin id', 'admin 2 id', 'etc.'] //id admin
 IGNORE_LIST = []
 TOKENS_GIVEN = 5
 TOKEN_RESET = 10
@@ -17,6 +17,6 @@ BACKUP_INTERVAL = 300
 MESSAGE_LANGUAGE = en
 LOG_FILE = debug.txt
 MIN_LOG_LEVEL = 1
-# 0 to log everything, 1 to log only gameplay-related info, 2 to log only warnings
+# 0 để ghi lại mọi thứ, 1 để chỉ ghi thông tin liên quan đến trò chơi, 2 chỉ để ghi các cảnh báo
 STASIS_FILE = stasis.json
 PLAYING_MESSAGE = '{0}info | {0}help | {0}join'.format(BOT_PREFIX)
