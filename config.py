@@ -17,6 +17,6 @@ BACKUP_INTERVAL = 300
 MESSAGE_LANGUAGE = en
 LOG_FILE = debug.txt
 MIN_LOG_LEVEL = 1
-# 0 để ghi lại mọi thứ, 1 để chỉ ghi thông tin liên quan đến trò chơi, 2 chỉ để ghi các cảnh báo
+# 0 để ghi lại mọi thứ, 1 để chỉ ghi thông tin liên quan đến trò chơi, 2 chỉ để ghi các cảnh báo 
 STASIS_FILE = stasis.json
 PLAYING_MESSAGE = '{0}info | {0}help | {0}join'.format(BOT_PREFIX)
