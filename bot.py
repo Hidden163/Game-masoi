@@ -43,7 +43,7 @@ starttime = None
 with open(NOTIFY_FILE, 'a+') as notify_file:
     notify_file.seek(0)
     notify_me = notify_file.read().split(',')
-#                         #
+
 if os.path.isfile(STASIS_FILE):
     with open(STASIS_FILE, 'r') as stasis_file:
         stasis = json.load(stasis_file)
