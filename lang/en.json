@@ -1,0 +1,142 @@
+{
+	"ping": [
+		"Pong!",
+		"**PONG!{Bot_nick}** đập bóng vào mặt của **{author}**!",
+		"Ping!",
+		"Pling!",
+		"Chìm! Quả bóng làm đổ cốc nước chanh của **{bot_nick}**.",
+		"\\*ping\\*.**{bot_nick}** chạm vào quả bóng, chạm vào lưới và rơi xuống phía của **{author}**.",
+		"Pling! Quả bóng chạm vào ngực của **{author}** và chúng rơi xuống đáng kể.",
+		"Pong! Bóng được phóng vào tường, không đến gần bàn.",
+		"Đã xảy ra lỗi khi ping và đã được ping.",
+		"PING! **{author}**",
+		"Ý bạn không phải là **{p}ping**?",
+		"{bot_nick}.exe đã ngừng phản hồi. Windows đang kiểm tra giải pháp cho sự cố ..."
+	],
+	"maxplayers": [
+		"Số lượng người chơi tối đa ({0}) đã tham gia trò chơi.",
+		"Không còn chỗ để bạn tham gia trò chơi này. Đã có {0} người chơi trong sảnh đợi này."
+	],
+	"minplayers": [
+		"Vui lòng đợi cho đến khi có ít nhất {0} người chơi.",
+		"Bạn không thể bắt đầu trò chơi cho đến khi có ít nhất {0} người chơi."
+	],
+	"notplayingstart": [
+		"Bạn không chơi nên không thể bắt đầu trò chơi! Nhập `{p}join` để tham gia trò chơi. "
+	],
+	"notplayingleave": [
+		"Bạn không thể rời khỏi một trò chơi mà bạn đéo chơi!"
+	],
+	"alreadyin": [
+		"Bạn đã chơi!",
+		"Bạn đã ở trong trò chơi!"
+	],
+	"leavelobby": [
+		"**{0}** đã rời khỏi trò chơi. Hiện có **{1}** người chơi trong sảnh đợi.",
+		"**{0}** bước ra khỏi sảnh. Hiện có **{1}** người chơi trong sảnh.",
+		"**{0}** đã bị thợ săn bắn hai lần, một lần vào đầu và một lần vào tim. Những người chơi còn lại: **{1}**",
+		"**{0}** dùng gậy chọc vào mắt một con gấu và đã phải trả giá. Những người chơi còn lại: **{1}**",
+		"**{0}** đã bị trúng một viên đạn siêu to màu vàng từ một chiếc xe tăng khổng lồ màu vàng. **{1}** người chơi còn lại sợ tụt lz."
+	],
+	"gamestart": [
+		"**{0}** bắt đầu game Werewolf. Nhập `{p}join` để tham gia. Nhập `{p}start` để bắt đầu game.",
+		"**{0}** đã bắt đầu game Werewolf. nhập `{p}start` to bắt đầu game. Nhập `{p}join` để tham gia."
+	],
+	"nokills": [
+		"Dân làng phát hiện ra xác chết của một con chim cánh cụt cưng yêu quý, nhưng may mắn là không có ai bị hại.",
+		"Dân làng phát hiện ra xác chết của một con chó cưng yêu quý, nhưng may mắn là không ai bị hại.",
+		"Dân làng phát hiện ra xác chết của một con mèo cưng yêu quý, nhưng may mắn là không ai bị hại.",
+		"Các dấu chân và búi lông được tìm thấy quanh làng, nhưng mọi người dường như không hề hấn gì.",
+		"Một số cửa nhà đã được mở.",
+			"Một mùi hương giống như mùi của một con sói lan tỏa trong không khí.",
+			"Tìm thấy phân sói bị chôn vùi một nửa.",
+			"Dấu vết của lông sói được tìm thấy."
+	],
+	"lynched": [
+		"Dân làng đã đồng ý treo cổ **{0}**, một **{1}**.",
+		"Dân làng tiến hành phẫu thuật để lấy trái tim của **{0}**, hiện được gọi là **{1}**. Họ đặt nó trong một chiếc cốc nhựa.",
+		"Dân làng tiến hành phẫu thuật để lấy bộ não của **{0}**, hiện được gọi là **{1}**. Họ niêm phong nó trong một lọ thủy tinh.",
+		"Bất đắc dĩ, dân làng dẫn **{0}** lên giá treo cổ, người sau này được phát hiện là **{1}**.",
+		"Dân làng hy sinh **{0}** cho thần belunga, người hiện đang hài lòng với **{1}**.",
+		"Đối với KHOA HỌC, dân làng ném **{0}** vào một ngọn núi lửa. Họ phát hiện ra rằng điểm nóng chảy của **{1}** thấp hơn điểm nóng chảy của dung nham.",
+		"Dân làng buộc **{0}** phải chơi trò Roulette kiểu Nga. Quảng trường thành phố bị nhuộm màu bởi tàn tích của **{1}**.",
+		"Dân làng, sau nhiều cuộc tranh luận, cuối cùng đã quyết định về cách lynching **{0}**, người hóa ra là ... một **{1}**.",
+		"Sau một cuộc đấu tranh kéo dài, **{0}** bị buộc lên giá treo cổ và sau khi chết được phát hiện là một **{1}**.",
+		"Dân làng chọn treo **{0}**; tuy nhiên, sợi dây căng ra và đứt, và cú ngã tiếp theo giết chết **{1}**."
+	],
+	"lynchednoreveal": [
+		"Dân làng đã đồng ý treo cổ **{0}**.",
+		"Dân làng tiến hành phẫu thuật để lấy trái tim của **{0}**. Họ đặt nó vào một chiếc cốc nhựa.",
+		"Dân làng tiến hành phẫu thuật để lấy bộ não của **{0}**. Họ niêm phong nó trong lọ thủy tinh.",
+		"Miễn cưỡng, dân làng dẫn **{0}** lên giá treo cổ.",
+		"Dân làng hy sinh **{0}** cho thần belunga, người hiện đang hài lòng với lễ vật.",
+		"Đối với KHOA HỌC, dân làng ném **{0}** vào một ngọn núi lửa. Họ phát hiện ra điểm nóng chảy của chúng thấp hơn điểm nóng chảy của dung nham.",
+		"Dân làng buộc **{0}** chơi trò Roulette kiểu Nga. Quảng trường thành phố bị nhuộm màu bởi những gì còn sót lại của họ.",
+		"Dân làng, sau nhiều cuộc tranh luận, cuối cùng đã quyết định về cách tử hình **{0}**.",
+		"Sau một cuộc đấu tranh kéo dài, **{0}** bị buộc phải lên giá treo cổ.",
+		"Dân làng chọn treo **{0}**; tuy nhiên, sợi dây căng ra và đứt, và cú ngã tiếp theo giết chết họ."
+	],
+	"hastotem": [
+		"**{0}** đang sở hữu một vật tổ bí ẩn ..."
+	],
+	"hastotem2": [
+		"**{0}** và **{1}** sở hữu một vật tổ bí ẩn ..."
+	],
+	"hastotems": [
+		"**{0}**,và **{1}** sở hữu một vật tổ bí ẩn ..."
+	],
+	"leavedeath": [
+		"**{0}** bốc cháy một cách tự nhiên. Không khí có mùi mới cháy **{1}**.",
+		"Khi đội chiếc mũ tam giác màu đỏ, **{0}**, a **{1}**, đã bị một thợ săn bắn chết.",
+		"Khi đội chiếc mũ vuông màu vàng, **{0}**, a **{1}**, đã bị một chiếc xe tăng húc vào.",
+		"Trong khi đội chiếc mũ ngũ giác màu xanh lam, **{0}**, **{1}**, đã bị phá hủy bởi một viên đạn thần công khổng lồ.",
+		"Trong khi đội một chiếc mũ ngũ giác màu xanh quá khổ, **{0}**, một **{1}**, đã bị tiêu diệt bởi một quả đạn cối khổng lồ.",
+		"Sau khi nhảy vào bể, **{0}** bị chết đuối. Con cá ăn xác của **{1}**.",
+		"**{0}** biến mất một cách bí ẩn trong rừng. Không ai biết **{1}** đã đi đâu.",
+		"Đang đứng dưới gốc cây, **{0}**, a **{1}**, bị chết bởi một cành cây rơi xuống.",
+		"**{0}**, a **{1}**, bị sét đánh chết ngay trước mắt dân làng. Không khí có mùi thịt cháy.",
+        "Xông xáo khắp ngôi làng, một con bò tót húc **{0}**, một **{1}**.",
+		"**{0}**, a **{1}**, rơi vào thùng chứa mật và chết đuối."
+
+		// "**{0}** spontaneously combusted. The air smells of freshly burnt **{1}**.",
+		// "While wearing a red triangular hat, **{0}**, a **{1}**, was shot dead by a hunter.",
+		// "While wearing a yellow square hat, **{0}**, a **{1}**, was rammed by a tank.",
+		// "While wearing a blue pentagonal hat, **{0}**, a **{1}**, was destroyed by a giant cannonball.",
+		// "While wearing an oversized blue pentagonal hat, **{0}**, a **{1}**, was annihilated by a humongous mortar shell.",
+		// "After jumping into a tank, **{0}** drowned. The fish consumed the dead **{1}**'s body.",
+		// "**{0}** mysteriously disappeared in the woods. Nobody knows where the **{1}** went.",
+		// "Standing under a tree, **{0}**, a **{1}**, is killed by a falling branch.",
+		// "**{0}**, a **{1}**, is killed by lightning before the villagers' eyes. The air smells of burnt flesh.",
+  //       	"Rampaging through the village, a bull gores **{0}**, a **{1}**.",
+	 //        "**{0}**, a **{1}**, falls into a vat of molasses and drowns."
+	],
+	"leavedeathnoreveal": [
+		"**{0}** bốc cháy tự nhiên. Không khí có mùi thịt mới cháy.",
+		"Khi đội chiếc mũ tam giác màu đỏ, **{0}** đã bị một thợ săn bắn chết.",
+		"Khi đội chiếc mũ vuông màu vàng, **{0}** đã bị một chiếc xe tăng húc vào.",
+		"Khi đội chiếc mũ ngũ giác màu xanh lam, **{0}** đã bị phá hủy bởi một viên đạn thần công khổng lồ.",
+		"Khi đội chiếc mũ ngũ giác màu xanh quá khổ, **{0}** đã bị tiêu diệt bởi một quả đạn cối khổng lồ.",
+		"Sau khi nhảy vào bể, **{0}** chết đuối. Con cá ăn xác.",
+		"**{0}** biến mất một cách bí ẩn trong rừng. Không ai biết họ đã đi đâu.",
+		"Đang đứng dưới gốc cây, **{0}** bị chết bởi một cành cây rơi xuống.",
+		"**{0}**, bị sét đánh chết ngay trước mắt dân làng. Không khí có mùi thịt cháy.",
+        	"Xông vào làng, một con bò tót húc **{0}**.",
+			"**{0}** rơi vào thùng chứa mật và chết đuối."
+	],
+	// "leavedeathnoreveal": [
+	// 	"**{0}** spontaneously combusted. The air smells of freshly burnt flesh.",
+	// 	"While wearing a red triangular hat, **{0}** was shot dead by a hunter.",
+	// 	"While wearing a yellow square hat, **{0}** was rammed by a tank.",
+	// 	"While wearing a blue pentagonal hat, **{0}** was destroyed by a giant cannonball.",
+	// 	"While wearing an oversized blue pentagonal hat, **{0}** was annihilated by a humongous mortar shell.",
+	// 	"After jumping into a tank, **{0}** drowned. The fish consumed the dead body.",
+	// 	"**{0}** mysteriously disappeared in the woods. Nobody knows where they went.",
+	// 	"Standing under a tree, **{0}** is killed by a falling branch.",
+	// 	"**{0}**, is killed by lightning before the villagers' eyes. The air smells of burnt flesh.",
+ //        	"Rampaging through the village, a bull gores **{0}**.",
+	//         "**{0}** falls into a vat of molasses and drowns."
+	// ],
+	"firstjoin": [
+		"**{0}** đã bắt đầu trò chơi Ma sói. Nhập `{p}join` để tham gia. Nhập `{p}start` để bắt đầu trò chơi."
+	]
+}
