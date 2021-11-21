@@ -1,13 +1,13 @@
-OWNER_ID = owner id (owner has all perms) //id người điều hành
-BOT_PREFIX = ~ //dấu lệnh bot
-TOKEN = token //token bot
+OWNER_ID = owner id (owner has all perms) #id người điều hành
+BOT_PREFIX = ~ #dấu lệnh bot
+TOKEN = token #token bot
 GAME_CHANNEL = Sảnh
 DEBUG_CHANNEL = 'debug channel id (for all your errors and debug stuff)'
 WEREWOLF_SERVER = 'id of server the bot is running on'
 PLAYERS_ROLE_NAME = 'Players'
 ADMINS_ROLE_NAME = 'Admins'
 WEREWOLF_NOTIFY_ROLE_NAME = Sói Trùm
-ADMINS = ['admin id', 'admin 2 id', 'etc.'] //id admin
+ADMINS = ['admin id', 'admin 2 id', 'etc.'] #id admin
 IGNORE_LIST = []
 TOKENS_GIVEN = 5
 TOKEN_RESET = 10
