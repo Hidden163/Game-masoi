@@ -4,7 +4,7 @@ Discord Werewolf là một bot điều hành trò chơi Werewolf (Mafia) trên D
 ## Thiết lập bot
 Cài đặt Python 3.5 hoặc 3.6. Phiên bản Python mới nhất hoạt động là 3.6.8, có thể được cài đặt từ https://www.python.org/downloads/release/python-368/. Nếu bạn đang chạy trên Windows, hãy nhớ chọn hộp sẽ thêm Python vào PATH.
 
-Sao chép kho lưu trữ này. Đổi tên `config.py.example` thành` config.py` và `settings.py.example` thành` settings.py` và điền vào các trường bên trong config.py. Để thay đổi một số cài đặt liên quan đến trò chơi, hãy chỉnh sửa settings.py.
+Sao chép kho lưu trữ này. Đổi tên `config.py.example` thành` config.py` và `settings.py.example` thành` settings.py` và điền vào các trường bên trong config.py. Để thay đổi một số cài đặt liên quan đến trò chơi, hãy chỉnh sửa settings.py, không cần đổi tên vì tôi đã đổi giùm rồi
 
 ## Sự phụ thuộc
 Discord Werewolf có phụ thuộc khó khăn vào discord.py và aiohttp. Bạn có thể chạy `pip install -r request.txt` để cài đặt các phụ thuộc bắt buộc. Lưu ý rằng bot sử dụng phiên bản discord.py cũ hơn, nhưng có bản sửa lỗi bổ sung để phù hợp với bản cập nhật API của Discord.
