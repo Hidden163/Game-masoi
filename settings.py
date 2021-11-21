@@ -33,6 +33,6 @@ DRUNK_INJURE = 2
 GUNNER_MULTIPLIER = 0.12 # bullets = ceil(num players * multiplier)
 SHARPSHOOTER_MULTIPLIER = 0.06
 DRUNK_MULTIPLIER = 3
-GUNNER_REVENGE_WOLF = 0.25 # chance that gunner will kill wolf
+GUNNER_REVENGE_WOLF = 0.25 # chance that gunner will kill wolf 
 
 DETECTIVE_REVEAL_CHANCE = 0.4
