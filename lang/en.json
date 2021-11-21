@@ -25,7 +25,7 @@
 		"Bạn không chơi nên không thể bắt đầu trò chơi! Nhập `{p}join` để tham gia trò chơi. "
 	],
 	"notplayingleave": [
-		"Bạn không thể rời khỏi một trò chơi mà bạn đéo chơi!"
+		"Bạn không thể rời khỏi một trò chơi mà bạn không chơi!"
 	],
 	"alreadyin": [
 		"Bạn đã chơi!",
