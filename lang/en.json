@@ -39,8 +39,8 @@
 		"**{0}** đã bị trúng một viên đạn siêu to màu vàng từ một chiếc xe tăng khổng lồ màu vàng. **{1}** người chơi còn lại sợ tụt lz."
 	],
 	"gamestart": [
-		"**{0}** bắt đầu game Werewolf. Nhập `{p}join` để tham gia. Nhập `{p}start` để bắt đầu game.",
-		"**{0}** đã bắt đầu game Werewolf. nhập `{p}start` to bắt đầu game. Nhập `{p}join` để tham gia."
+		"**{0}** bắt đầu game ma sói. Nhập `{p}join` để tham gia. Nhập `{p}start` để bắt đầu game.",
+		"**{0}** đã bắt đầu game ma sói. nhập `{p}start` to bắt đầu game. Nhập `{p}join` để tham gia."
 	],
 	"nokills": [
 		"Dân làng phát hiện ra xác chết của một con chim cánh cụt cưng yêu quý, nhưng may mắn là không có ai bị hại.",
